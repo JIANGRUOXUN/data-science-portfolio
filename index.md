@@ -33,7 +33,7 @@ Hi! I am a student learning data science, with an interest in sports analytics, 
 
 **Key visualization:** Game-by-game goals scored and conceded, along with monthly win rates.
 
-**Project repository:** https://github.com/JIANGRUOXUN/san-jose-sharks-data-analysis
+**Project repository:** https://github.com/JIANGRUOXUN/data-science-project
 
 ## Learning Goals
 
